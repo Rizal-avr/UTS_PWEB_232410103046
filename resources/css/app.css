@@ -1,0 +1,6 @@
+/* Impor Flowbite HARUS di atas Tailwind */
+@import 'flowbite/dist/flowbite.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
